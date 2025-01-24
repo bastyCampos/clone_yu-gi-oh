@@ -95,7 +95,7 @@ justify-content: center;
     padding: 10px;
 }
 
-.cartao .informacoes .infomacoes-ataque span{
+.cartao .informacoes .infomacoes-ataque span {
     font-size: 13px;
 }
 
@@ -103,7 +103,7 @@ justify-content: center;
     border-bottom: 1px solid #000000;
     padding: 10px;
     max-height: 95px;
-    overflow: scroll;
+    overflow-y: scroll;
     font-size: 13px;
 }
 
